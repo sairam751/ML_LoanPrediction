@@ -1,0 +1,4 @@
+[core]
+    remote = loan_prediction
+['remote "loan_prediction"']
+    url = L:\Pdfs\ReposGitHub\ML_Projects\DVC_DataStoreRepo\LoanPredictionData
